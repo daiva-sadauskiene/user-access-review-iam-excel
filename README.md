@@ -1,4 +1,4 @@
-# User Access Review and account reconciliation (Excel)
+# User Access Review and Account Reconciliation (Excel)
 
 This project demonstrates how Microsoft Excel can be used to support Identity and Access Management (IAM) and access review activities by reconciling HR employee data with system user access lists.
 
