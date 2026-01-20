@@ -60,16 +60,16 @@ This project focuses on analysis and reporting. Actual access removal would be p
 The following screenshots provide a visual walkthrough of the Excel-based access review and account reconciliation process.
 
 ### Access Review Logic (IF Function)
-![Access review IF logic](01_access_review_if_logic.png)
+![Access review IF logic](01 access_review_if_function.png)
 
 ### System User Access List
-![System users list](02_system_users_list.png)
+![System users list](02 system_users_list.png)
 
 ### Systems to Close Identified Using XLOOKUP
-![Systems to close XLOOKUP](03_Systems_to_close_xlookup.png)
+![Systems to close XLOOKUP](03 Systems_to_close_xlookup.png)
 
 ### Access Review Summary (Pivot Table)
-![Access review pivot](04_access_review_pivot.png)
+![Access review pivot](04 access_pivot.png)
 
 ### Access Removal Summary (Operational Pivot)
-![Access removal pivot](05_access_removal_pivot.png)
+![Access removal pivot](05 access_removal_pivot.png)
